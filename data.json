@@ -1,20 +1,6 @@
 {
   "products": [
     {
-        "name": "SourceCode | Apps and Games Store",
-        "category": "Busiess",
-        "buy": "https://themebing.com/shop/wordpress/sourcecode-apps-and-games-store-wordpress-theme/",
-        "preview_url": "https://themebing.com/live-preview-bar/sourcecode-apps-and-games-store-wordpress-theme/",
-        "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/sourcecode.png"
-    },
-    {
-        "name": "NewsLab | WordPress News Theme",
-        "category": "Corporate",
-        "buy": "https://themebing.com/shop/wordpress/newslab-wordpress-news-theme/",
-        "preview_url": "https://themebing.com/live-preview-bar/newslab-news-magazine-wordpress-theme/",
-        "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/newslab.png"
-    },
-    {
         "name": "Auto Parts Store WooCommerce Theme",
         "category": "WooCommerce",
         "buy": "https://themebing.com/shop/wordpress/auto-parts-store-woocommerce-theme/",
@@ -27,6 +13,20 @@
         "buy": "https://themebing.com/shop/wordpress/dawa-supplements-store-woocommerce-theme/",
         "preview_url": "https://themebing.com/wp/dawa",
         "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/dawa.jpg"
+    },
+    {
+        "name": "SourceCode | Apps and Games Store",
+        "category": "Busiess",
+        "buy": "https://themebing.com/shop/wordpress/sourcecode-apps-and-games-store-wordpress-theme/",
+        "preview_url": "https://themebing.com/live-preview-bar/sourcecode-apps-and-games-store-wordpress-theme/",
+        "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/sourcecode.png"
+    },
+    {
+        "name": "NewsLab | WordPress News Theme",
+        "category": "Corporate",
+        "buy": "https://themebing.com/shop/wordpress/newslab-wordpress-news-theme/",
+        "preview_url": "https://themebing.com/live-preview-bar/newslab-news-magazine-wordpress-theme/",
+        "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/newslab.png"
     },
     {
         "name": "Amike | Personal Portfolio WordPress Theme",
