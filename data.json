@@ -4,13 +4,13 @@
       "category": "Busiess",
       "buy": "https://themebing.com/shop/wordpress/sourcecode-apps-and-games-store-wordpress-theme/",
       "preview_url": "https://themebing.com/live-preview-bar/sourcecode-apps-and-games-store-wordpress-theme/",
-      "image": "images/sourcecode.png"
+      "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/sourcecode.png"
   },
   {
       "name": "NewsLab | WordPress News Theme",
       "category": "Corporate",
       "buy": "https://themebing.com/shop/wordpress/newslab-wordpress-news-theme/",
       "preview_url": "https://themebing.com/live-preview-bar/newslab-news-magazine-wordpress-theme/",
-      "image": "images/newslab.png"
+      "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/newslab.png"
   }
 ]
