@@ -1,6 +1,13 @@
 {
   "products": [
     {
+        "name": "Azim | Multi-Purpose WordPress Theme",
+        "category": "Creative",
+        "buy": "https://1.envato.market/Vzqk6",
+        "preview_url": "https://preview.themeforest.net/item/azim-multipurpose-wordpress-theme/full_screen_preview/29662167",
+        "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/azim.jpg"
+    },
+    {
         "name": "Auto Parts Store WooCommerce Theme",
         "category": "WooCommerce",
         "buy": "https://themebing.com/shop/wordpress/auto-parts-store-woocommerce-theme/",
