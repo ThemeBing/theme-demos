@@ -1,6 +1,13 @@
 {
   "products": [
     {
+        "name": "ViewTube | Video WordPress Theme",
+        "category": "Creative",
+        "buy": "https://1.envato.market/DVKKaa",
+        "preview_url": "https://1.envato.market/vnnMAe",
+        "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/viewtube.jpg"
+    },
+    {
         "name": "Azim | Multi-Purpose WordPress Theme",
         "category": "Creative",
         "buy": "https://1.envato.market/Vzqk6",
@@ -22,11 +29,11 @@
         "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/dawa.jpg"
     },
     {
-        "name": "SourceCode | Apps and Games Store",
+        "name": "MotorMania | Motorcycle Accessories WooCommerce Theme",
         "category": "Busiess",
-        "buy": "https://themebing.com/shop/wordpress/sourcecode-apps-and-games-store-wordpress-theme/",
-        "preview_url": "https://themebing.com/live-preview-bar/sourcecode-apps-and-games-store-wordpress-theme/",
-        "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/sourcecode.png"
+        "buy": "https://1.envato.market/0JJB0M",
+        "preview_url": "https://1.envato.market/Yg99KB",
+        "image": "https://raw.githubusercontent.com/ThemeBing/theme-demos/main/images/motormania.jpg"
     },
     {
         "name": "NewsLab | WordPress News Theme",
